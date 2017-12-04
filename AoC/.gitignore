@@ -1,0 +1,10 @@
+*.iml
+
+.idea/workspace.xml
+.idea/deployment.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+
+/out/
